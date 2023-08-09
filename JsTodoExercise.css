@@ -1,0 +1,11 @@
+.completedList{
+    text-decoration: line-through;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+h1{
+    text-align: center;
+}
